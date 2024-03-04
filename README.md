@@ -53,9 +53,3 @@ PUT api/books/{id}
 #   "title":"Updated Title",
 #   "author":{"firstname":"Harry",  "lastname":"White"}
 # }
-
-```
-
-
-```
-
