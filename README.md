@@ -1,4 +1,4 @@
-# Simple GO Lang REST API
+# GOLANG REST API 
 
 > Simple RESTful API to create, read, update and delete books. No database implementation yet
 
@@ -12,7 +12,7 @@ go get -u github.com/gorilla/mux
 
 ``` bash
 go build
-./go_restapi
+./GOLANG-REST-API
 ```
 
 ## Endpoints
